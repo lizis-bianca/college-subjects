@@ -1,6 +1,6 @@
 # SEMANA 01
 
-> ## Pilares, Algoritmos do dia a dia
+> ## Pilares, Algoritmos do dia a dia :woman_technologist:
 
 - Combina soluções que resolvem problemas menores; 
 - Utiliza padrões recorrentes no próprio problema; 
