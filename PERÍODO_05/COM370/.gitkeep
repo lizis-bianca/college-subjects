@@ -1,0 +1,34 @@
+- 1. Introdução a Sistemas Ciber-Físicos
+
+// Sistemas Ciber-Físicos e Internet das Coisas (IOT)
+Exemplos de projetos aplicados no agro
+
+Impacto do 5G
+
+> O que caracteriza um sistema embarcado?
+Sistemas embarcados é o nome que se dá a programas e sistemas embutidos em microprocessadores, que executam tarefas específicas em um aparelho.
+
+// Sistemas Ciber-Físicos e Indústria 4.0
+4º revolução industrial.
+utilização de inteligencia artificial.
+
+// Introdução a Sistemas Embarcados e ao Ambiente de Desenvolvimento IDE Arduino
+
+> O que é um sistema Ciber-Físico ou CPS?
+conhecido como Cyber-Physical Systems, são integrações que envolvem computação, comunicação e controle através de redes e processos fisicos.
+São constituidos por elementos computacionais (analiticos, alertas com base em limiares, calculo de indicadores), elementos fisicos (sensores e atuadores) e processos (esteira de fábrica, monitor)
+Um sistema ciber-fisico pode ser descrito como sendo um conjunto de sistemas fisicos conectados a uma rede, ou seja, sistemas embarcados + internet.
+
+> O que é sistema embarcado?
+também chamado de sistema embutido, é um sistema microprocessado, dedicado a uma tarefa especifica, como se um computador estivesse anexado e dedicado ao sistema que controla.
+
+Firmware são também conhecidos por 'software embarcado' são programados diretamente no hardware de equipamentos eletrônicos.
+
+> Onde são aplicados?
+revolucionam o mundo continuamente, presente em eletrodomésticos, aparelhos de comunicação, computadores e equipamentos de entreterimento.
+
+> O que é arduino?
+é uma plataforma open source, ou hardware para prototipagem eletrônica, projetada com um microcontrolador.
+
+> IDE Arduino
+IDE é o ambiente de desenvolvimento, ou seja, o software que permite a programação e embarca-los em um microcontrolador.
