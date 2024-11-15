@@ -1,0 +1,72 @@
+> SEMANA 01 - Introdução aos circuitos digitais e sistemas de numeração
+
+-- Video 01 - Introdção aos circuitos digitais
+
+o bit (digito binário) é a menor unidade de informação que pode ser armazenada ou transmtida. Um bit pode assumir somente 2 valores: 0 ou 1;
+Propriedades:
+- Pequeno e barato (desejamos muitos deles)
+- Escalavel (confiavel e repetivel)
+- facilidade e velocidade na manipulação
+
+Fenômenos eletricos:  tensões, correntes, fases e frequencia.
+
+Sistemas baseados em tensões;
+Vantagens:
+- Facil geração e medição;
+- Grande conhecimento de engenharia;
+- Baixo consumo em regime;
+Desvantagens:
+- Facilmente corrompida por ruidos;
+- Conexão fisica necessária;
+- Efeitos RC limitam a velocidade de propagação;
+
+Abstração Digital
+
+Usando tensoes 'Digitalmente'
+Ideia principal: codificar apenas 1 bit de informação, usando representações uniforme para cada componente e condutor.
+
+Controle da eletricidade
+Um interruptor é a forma mais simples de controle, a falta de contato fisico dos condutores cria esta barreira.
+
+Circuitos com chaves
+*slide
+
+Transistor
+Transistores são componentes semicondutores que, na eletrônica digital, têm como função primária a de servir como interruptor.
+
+Circuitos com transistores
+CMOS se refere a uma tecnologia de circuitos digitais e possui 3 regras:
+- A rede de conexão com a baixa tensão (pull-down) é feita com transmissores NMOS;
+- A rede de conexão com a alta tensão (pull-up) é feita com transmissores PMOS;
+- Os circuitos de pull-down e pull-up são duais (conexões em serie se transformam em paralelas e vice-versa);
+
+Elemento de processamento digital
+um dispositivo combinacional é um circuito com as seguintes propriedades: (requisitos estáticos)
+- Uma ou mais entradas digitais;
+- Uma ou mais saídas digitais;
+- Especificação funcional: sabe-se o valor de cada saida para qualquer combinação possivel de entradas validas;
+- Especificação temporal: sabe-se um limitante superior tpd no tempo de propagação necessário para que o dispositivo cancule a saida especificada a partir de qualquer conjunto estavel de valores de entrada;
+Exemplo
+*slide
+
+-- Video 2 - Sistemas de numeração
+- sistema decimal(base 10): usado em quase todas as aplicações;
+- sistema duodecimal(base 12): aparece na medida de tempo (2 periodos de 12 horas), tamanho (12 polegadas em 1 pé), medidas como dúzia;
+- sistema sexagesimal(base 60): aparece em medidas de tempo (minutos em uma hora, segundos em um minuto);
+- sistema binario(base 2): usado em computadores;
+- sistema octal(base 8): usado em sistemas de controle de processos industriais;
+- sistema hexadecimal(base 16);
+
+Números binários
+com n bits, o maior número representavel é 2^n - 1;
+- Bit mais a direita é chamado de LSB (least significant bit);
+- Bit mais a esquerda é chamado de MSB (most significant bit);
+- Sequencia de 8 bits - byte;
+- sequencia de 4 bits - nibble;
+
+Codigo BCD
+*slide
+conversão feita digito a digito
+
+Codigo Gray
+*slide
