@@ -1,0 +1,49 @@
+1. Redes de Computadores e a Internet
+
+> Introdução às Redes de Computadores
+Foram criadas com o intuito primário de permitir que dois ou mais elementos computacionais pudessem se comunicar e compartilhar recursos.
+Para um elemento computacional ser conectado a uma rede de dados é preciso:
+- uma placa de rede;
+- esteja ligada por algum link a um elemento de comutação;
+
+Arquitetura em camadas
+- Modelo OSI
+O modelo OSI (Open system interconection) é conhecido por ser um modelo de referencia, que não foi implementado na prática. Ele possui as camas descritas a seguir:
+* Camada Física (1)
+* Camada de Enlace (2)
+* Camada de Redes (3)
+* Camada de Transmissão (4)
+* Camada de Sessão (5)
+* Camada de Apresentação (6)
+* Camada de Aplicação (7)
+- Modelo TCP/IP
+O modelo TCI/IP é o padrão de comunicação na maioria das redes, sendo utilizado na prática por inúmeros elementos de comunicação em redes locais ou remotas.
+* Acesso à rede (1)
+* Internet (2)
+* Transporte (3)
+* Aplicação (4)
+
+> Principais Protocolos de Comunicação
+O que é um protocolo de comunicação?
+"Um protocolo define o formato e a ordem das mensagens trocadas entre duas ou mais entidades comunicantes, bem como as ações realizadas na transmissão e/ou recepção dessas mensagens"
+segundo Kurose e Ross
+
+- TCP -> camada de transporte
+- UDP -> camada de transporte simplificada
+- IP -> camada de rede
+
+> Endereçamento IP
+- Endereçamento IPV4
+* Version: informa a versão do protocolo (4 bits)
+* IHL: informa o tamanho da cabeçalho do pacote (4 bits)
+* Type of service: informa as classes de serviço (8 bits)
+* Total length: informa o tamanho do datagrama (16 bits)
+* Identification: identifica o datagrama (16 bits)
+* DF: não fragmenta o datagrama (1 bit)
+* MF: indica se há mais fragmentos de um datagrama (0 bit)
+- Classes IPV4
+- Máscara de Rede
+utilizado para determinar o endereço do broadcast
+- Sub-Redes
+
+> Infraestrutura Computacional
