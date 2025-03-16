@@ -2,6 +2,8 @@
 
 # _✨ Summary ✨_
 
+![matriz curricular](https://apps.univesp.br/manual-do-aluno/assets/matriz-curricular/EC_matrizcurricular.pdf)
+
 ## [1º Período](PERÍODO_01)
 - [SOC100](PERÍODO_01/SOC100) - Ética, cidadania e Sociedade
 - [LET100](PERÍODO_01/LET100) - Inglês
